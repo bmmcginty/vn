@@ -1,0 +1,21 @@
+name: osm
+version: 0.1.0
+
+authors:
+  - name Brandon McGinty <osm@bmcginty.us>
+
+description: |
+  explore the earth via text
+
+dependencies:
+  term:
+    github: bmmcginty/term
+  geo:
+    github: geocrystal/geo
+#     version: "~> 0.5"
+
+# development_dependencies:
+#   webmock:
+#     github: manastech/webmock.cr
+
+# license: MIT
